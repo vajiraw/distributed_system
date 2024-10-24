@@ -1,1 +1,1 @@
-this is the ead me for the distributed system
+this is the read me for the distributed system
